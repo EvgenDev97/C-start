@@ -1,0 +1,3 @@
+bitwiseOperation
+inOut flow
+specificators
