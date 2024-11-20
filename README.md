@@ -1,3 +1,0 @@
-bitwiseOperation
-inOut flow
-specificators
